@@ -1,1 +1,1 @@
-# Code Review Project
+# Example of authentication via jwt on fastapi
